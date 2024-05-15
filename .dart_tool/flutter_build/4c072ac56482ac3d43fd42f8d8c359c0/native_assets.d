@@ -1,0 +1,1 @@
+ C:\\Users\\DATA21\\Desktop\\optimizacionCombustible\\gestor_combustible\\.dart_tool\\flutter_build\\4c072ac56482ac3d43fd42f8d8c359c0\\native_assets.yaml: 
